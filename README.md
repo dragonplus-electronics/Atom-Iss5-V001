@@ -1,6 +1,4 @@
-# Atom Iss5 V001
- Atom Issue 5 Repro V001 (Near Replica)
- 
+# Atom Iss5 Repro V001 (Near Replica
  This board is intended to be used as a replica Issue 5 board for the Acorn Atom.
  
  Although it is identical in most respects, including the aesthetics of the silkscreen etc, certain elements have been changed in order to facilitate sourcing/placement of certain components. These are listed below:
